@@ -10,3 +10,8 @@ body {
     background-image: url(background.svg);
     width: 1440px;
 }
+.heading {
+    display: flex;
+    text-align: center;
+}
+    
